@@ -20,10 +20,10 @@ public class Main {
 	    sc.nextLine();
 	    switch(escolha) {
 	    case 1 :
-	    	ProcessosCompletos.CriptacaoString(sc);
+	    	ProcessosCompletos.Criptacao(sc);
 	    	break;
 	    case 2 :
-	    	ProcessosCompletos.DecriptacaoString(sc);
+	    	ProcessosCompletos.Decriptacao(sc);
 	    	break;
 	    }
 	    System.out.println("Volte Sempre :)");
