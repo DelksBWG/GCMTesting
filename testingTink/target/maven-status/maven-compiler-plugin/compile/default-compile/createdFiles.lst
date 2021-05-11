@@ -1,0 +1,11 @@
+util\Conversao.class
+entities\ChaveGCM.class
+util\PegandoArquivo.class
+entities\ChaveCodificar.class
+program\Main.class
+util\ProcessosCompletos.class
+entities\VetorInicializador.class
+entities\ArquivoEnviado.class
+util\AdquirindoArquivo.class
+entities\ArquivoCriptografado.class
+entities\Arquivo.class
